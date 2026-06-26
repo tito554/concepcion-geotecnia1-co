@@ -1,0 +1,47 @@
+# Geotecnia1 — Concepción
+
+> Geotechnical engineering services in Concepción, Chile.
+
+## Services
+- [Aislacion Sismica](https://concepcion.geotecnia1.co/aislacion-sismica/)
+- [Anclajes](https://concepcion.geotecnia1.co/anclajes/)
+- [Calicatas Exploratorias](https://concepcion.geotecnia1.co/calicatas-exploratorias/)
+- [Cimentaciones](https://concepcion.geotecnia1.co/cimentaciones/)
+- [Cimentaciones Superficiales](https://concepcion.geotecnia1.co/cimentaciones-superficiales/)
+- [Columnas Grava](https://concepcion.geotecnia1.co/columnas-grava/)
+- [Densidad Cono Arena](https://concepcion.geotecnia1.co/densidad-cono-arena/)
+- [Ensayo Cpt](https://concepcion.geotecnia1.co/ensayo-cpt/)
+- [Ensayo Triaxial](https://concepcion.geotecnia1.co/ensayo-triaxial/)
+- [Excavaciones Subterraneo](https://concepcion.geotecnia1.co/excavaciones-subterraneo/)
+- [Exploracion](https://concepcion.geotecnia1.co/exploracion/)
+- [Geofisica](https://concepcion.geotecnia1.co/geofisica/)
+- [Geotecnia Vial](https://concepcion.geotecnia1.co/geotecnia-vial/)
+- [Granulometria](https://concepcion.geotecnia1.co/granulometria/)
+- [Grouting](https://concepcion.geotecnia1.co/grouting/)
+- [Laboratorio In Situ](https://concepcion.geotecnia1.co/laboratorio-in-situ/)
+- [Laboratorio Lab](https://concepcion.geotecnia1.co/laboratorio-lab/)
+- [Licuefaccion](https://concepcion.geotecnia1.co/licuefaccion/)
+- [Losa De Cimentacion](https://concepcion.geotecnia1.co/losa-de-cimentacion/)
+- [Masw Vs30](https://concepcion.geotecnia1.co/masw-vs30/)
+- [Mejoramiento](https://concepcion.geotecnia1.co/mejoramiento/)
+- [Microzonificacion Sismica](https://concepcion.geotecnia1.co/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://concepcion.geotecnia1.co/monitoreo-excavaciones/)
+- [Muros Contencion](https://concepcion.geotecnia1.co/muros-contencion/)
+- [Pavimento Flexible](https://concepcion.geotecnia1.co/pavimento-flexible/)
+- [Pavimento Rigido](https://concepcion.geotecnia1.co/pavimento-rigido/)
+- [Permeabilidad Campo](https://concepcion.geotecnia1.co/permeabilidad-campo/)
+- [Pilotes](https://concepcion.geotecnia1.co/pilotes/)
+- [Placa De Carga](https://concepcion.geotecnia1.co/placa-de-carga/)
+- [Resistividad Electrica Sev](https://concepcion.geotecnia1.co/resistividad-electrica-sev/)
+- [Sismica](https://concepcion.geotecnia1.co/sismica/)
+- [Sondaje Spt](https://concepcion.geotecnia1.co/sondaje-spt/)
+- [Taludes](https://concepcion.geotecnia1.co/taludes/)
+- [Tomografia Sismica](https://concepcion.geotecnia1.co/tomografia-sismica/)
+- [Vibrocompactacion](https://concepcion.geotecnia1.co/vibrocompactacion/)
+
+## Contact
+- Website: https://concepcion.geotecnia1.co/
+
+## About
+This site provides geotechnical engineering services in Concepción, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
